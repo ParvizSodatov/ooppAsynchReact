@@ -1,0 +1,15 @@
+table{
+  width: 70%;
+  margin: auto;
+text-align: center;
+margin-top: 50px;
+}
+td,tr{
+  border-bottom: 2px solid gray;
+  padding: 9px;
+}
+.action{
+  display: flex;
+  justify-content: center;
+gap: 10px;
+}
